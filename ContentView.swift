@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  STI SwiftUI Base
 //
-//  Created by Diego Saragoza Da Silva on 30/09/25.
+//  Created by Isadora Caetano
 //
 
 import SwiftUI
